@@ -1,4 +1,4 @@
-# clock-project-1
+# unsplash-search-images
 
 ## Project setup
 ```
